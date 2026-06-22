@@ -3,7 +3,7 @@
 This is the official repository of **VANDAlize: Safety Degradation of Large Language Models Through Taglish-Based Inputs**.
 
 ## Keywords
-`LLM`, `Code-switching`, `Multilinggual`, `Red-teaming`, 
+`LLM`, `Code-switching`, `Multilinggual`, `Red-teaming`
 
 ## Abstract
 tbd
